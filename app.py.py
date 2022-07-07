@@ -4,7 +4,6 @@ import cv2
 import numpy as np
 import face_recognition as face_rec
 import os
-import pyttsx3 as textSpeach
 from datetime import  datetime
 path = 'employee images'
 employeeImg = []
