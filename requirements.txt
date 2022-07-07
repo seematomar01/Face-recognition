@@ -89,9 +89,7 @@ pyparsing==3.0.9
 pypiwin32==2.2.3
 pyrsistent==0.18.1
 python-dateutil==2.8.2
-pyttsx3==2.9.0
 pytz==20.22.1
-pywin32==3.0.4
 pywinpty==2.0.5
 PyYAML==6.0
 pyzmq==23.1.0
