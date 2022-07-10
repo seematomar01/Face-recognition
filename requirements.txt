@@ -3,12 +3,6 @@ opencv-python==4.6.0.66
 numpy==1.22.4 
 face-recognition==1.3.0
 datetime
-click
-gunicorn
-itsdangerous
-Jinja2
-joblib
-MarkupSafe
-Werkzeug
+gunicorn==-20.1.0
 
 
